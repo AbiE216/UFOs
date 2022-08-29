@@ -1,0 +1,6 @@
+// import the data from data.js/ declare a variable
+const tableData = data;
+
+//Referebce the HTML table using d3
+var tbody = d3.select("tbody");
+
