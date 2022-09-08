@@ -11,6 +11,7 @@ We helped Dana build a webpage with a dynamic table. This page contains numerous
 - VSCode 
 - HTML
 - JavaScript
+- CSS
 
 ## Results
 This webpage is simple in its design and utility. It can be easily navigated by filling in the desired location, date, or shape. The date bar can be accessed the same as the other searches, the dates are confined between 01/01/2010 and 01/13/2010. Multiple criteria can also be entered, to filter down even further. 
